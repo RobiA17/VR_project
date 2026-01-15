@@ -536,18 +536,6 @@ npm run ios
 - **Új verseny**: Nyomja meg a "RACE AGAIN" gombot
 - **Teljes újraindítás**: Nyomja meg a "Reset" gombot a fejlécben
 
-### Felhasználói Felület Elemei
-
-| Elem | Funkció |
-|------|---------|
-| 🏎️ AR CAR RACE 🏎️ | Alkalmazás címe |
-| Státusz szöveg | Útmutató a következő lépéshez |
-| 🔄 Reset | AR jelenet újraindítása |
-| START RACE! | Verseny indítása |
-| 🏆 BLUE WINS! 🏆 | Eredmény megjelenítése |
-
----
-
 ## Testreszabás és Továbbfejlesztés
 
 ### Autó Színének Módosítása
@@ -650,4 +638,4 @@ Ez a dokumentáció bemutatta az AR Autóverseny alkalmazás felépítését, te
 
 ---
 
-*Készítette: [Név] - Mesterképzés, 2. évfolyam, VR Projekt*
+*Készítette: [Ambarus Róbert-Béla] - Mesterképzés, 2. évfolyam, VR Projekt*
